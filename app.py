@@ -73,7 +73,7 @@ with gr.Blocks(css=custom_css, title="Property Rent Predictor") as interface:
                 gr.Markdown("**Manya**")
                 gr.Markdown("### 🏫 College name")
                 gr.Markdown("**Panipat Institute of Engineering and Technology**")
-                gr.Markdown("📸 Instagram: `manya_singla_25`")
+                
                 
                 gr.Markdown("### 🛠️ Tools Used")
                 gr.Markdown("""
